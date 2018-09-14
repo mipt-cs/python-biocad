@@ -42,9 +42,9 @@
 Пример
 ~~~~~~
 
-.. code-block:: bash
-        2\nabc
-        de
-        0
-        gf
-        1
+  |2
+  |abc
+  |de
+  |0
+  |gf
+  |1
