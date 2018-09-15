@@ -6,7 +6,7 @@
 
 Windows
 -----------
-В первую очередь проверяем, имеется рабочая установка.
+В первую очередь проверяем, имеется ли рабочая установка.
 Откройте cmd.exe и попробуйте команды
 
   | python
@@ -43,7 +43,7 @@ https://realpython.com/installing-python/#ubuntu
 Прочие системы
 ----------------
 
-Тоже можно посмтореть здесь https://realpython.com/installing-python/#ubuntu
+Тоже можно посмотреть здесь https://realpython.com/installing-python/#ubuntu
 
 
 
