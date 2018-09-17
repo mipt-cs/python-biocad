@@ -29,9 +29,10 @@ https://github.com/mipt-cs/course-site-python3/blob/master/content/lab1.rst
 Упражнение №3
 -------------
 
-Нарисуйте кардиоиду с помощью черепашки. Функции *sin* и *cos* есть в модуле *math*. Задачу можно решить, используя ``goto``.
+Нарисуйте кардиоиду с помощью черепашки. Функции *sin* и *cos* есть в модуле *math*. Задачу можно решить, используя ``turtle.goto``.
 
 .. code-block:: python
+
     import math
     s = math.sin(30)
     c = math.cos(45)
