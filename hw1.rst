@@ -6,13 +6,13 @@
 :status: not ready
 :published: no
 
-Ввод и вывод в python
+Ввод и вывод в python:
 https://pythontutor.ru/lessons/inout_and_arithmetic_operations/
 
-Cписок операторов в языке python
+Cписок операторов: 
 http://pythonicway.com/python-operators
 
-Операции над строками, условия, циклы, черепаха
+Операции над строками, условия, циклы, черепаха: 
 https://github.com/mipt-cs/course-site-python3/blob/master/content/lab1.rst
 
 
@@ -59,9 +59,10 @@ https://github.com/mipt-cs/course-site-python3/blob/master/content/lab1.rst
 Упражнение №8
 -------------
 
-Напишите программу, печатающую первые N простых чисел. Используйте 'решето Эратосфена <https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B5%D1%82%D0%BE_%D0%AD%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%84%D0%B5%D0%BD%D0%B0>'_ . Для инициализации списка заданной длины нулями можно использовать
+Напишите программу, печатающую первые N простых чисел. Используйте `решето Эратосфена <https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B5%D1%82%D0%BE_%D0%AD%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%84%D0%B5%D0%BD%D0%B0>`_ . Для инициализации списка заданной длины нулями можно использовать
 
 .. code-block:: python
+
     l = [0] * 100  # список из 100 нулей
     
 
