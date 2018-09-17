@@ -3,8 +3,8 @@
 
 :date: 2018-09-17 07:06
 :summary: Адреса и указатели. Ввод данных в С. Адресная арифметика
-:status: not ready
-:published: no
+:status: published
+:published: yes
 
 Ввод и вывод в python:
 https://pythontutor.ru/lessons/inout_and_arithmetic_operations/
