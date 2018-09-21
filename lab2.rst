@@ -136,3 +136,6 @@ cd
 + Назовите репозиторий по своим имени и фамилии. Их может разделять дефис
 + Поставьте галочку в пункте **Initialize this repository with a README**
 + Нажмите кнопку **Clone or download** и скопируйте ссылку с помощью кнопки
+
+
+.. image:: {filename}/images/clone_repo.jpeg
