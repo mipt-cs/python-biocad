@@ -253,3 +253,19 @@ jupyter
 	[user@comp ~]$ jupyter notebook
 	
 Кликните на папку lab2, а затем на кнопку **New** и выберете *Python 3*. Переименуйте ноутбук в test2.
+После решения теста сохраните результат на github
+
+.. code-block:: bash
+
+	[user@comp ~]$ git add test2.ipynb;git commit -m "test2";git push
+
+Скачивание файла с уроком
+========================
+
+.. code-block:: bash
+
+	[user@comp ~]$ cd ~/<your-repo-name>/lab2
+	[user@comp ~]$ wget https://github.com/mipt-cs/python-biocad/blob/master/lab2.ipynb
+	[user@comp ~]$ git add lab2.ipynb;git commit -m "create lab2"
+	
+После занятия не забудте запушить то, что  сделали.
