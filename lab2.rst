@@ -266,7 +266,7 @@ jupyter
 .. code-block:: bash
 
 	[user@comp ~]$ cd ~/<your-repo-name>/lab2
-	[user@comp ~]$ wget https://github.com/mipt-cs/python-biocad/blob/master/lab2.ipynb
+	[user@comp ~]$ wget https://raw.githubusercontent.com/mipt-cs/python-biocad/master/lab2.ipynb
 	[user@comp ~]$ git add lab2.ipynb;git commit -m "create lab2"
 	
 После занятия не забудте запушить то, что  сделали.
