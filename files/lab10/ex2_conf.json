@@ -1,0 +1,16 @@
+{
+  "title": "Gauss distribution",
+  "xlabel": "value",
+  "ylabel": "probability",
+  "grid": true,
+  "hist": {
+    "bins": 200,
+    "histtype": "step",
+    "color": [
+      "b",
+      "r"
+    ],
+    "linewidth": 2,
+    "density": true
+  }
+}
