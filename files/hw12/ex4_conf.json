@@ -1,0 +1,1 @@
+{"phi_step": 2, "zhigh": 1.01, "theta": 30, "colorbar": {"shrink": 0.5, "aspect": 10}, "xlabel": "X", "ylabel": "Y", "animation": {"frames": 180, "repeat": true, "interval": 100}, "zlabel": "Z", "surface": {"linewidth": 0, "antialiased": false, "cmap": "coolwarm", "cstride": 1, "rstride": 1}, "zlow": -1.01}
