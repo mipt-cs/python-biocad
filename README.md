@@ -1,6 +1,7 @@
 # python-biocad
 Python course for M06-803 group
 
+<font color=blue>blahblahblah</font>
 
 <table>
     <thead>
