@@ -2,6 +2,7 @@
 Python course for M06-803 group
 
 <font color=blue>blahblahblah</font>
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 <table>
     <thead>
