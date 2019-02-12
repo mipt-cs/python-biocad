@@ -1,3 +1,10 @@
 problem_solutions/**
 **/.ipynb_checkpoints/**
 **/__pycache__/**
+labs/newdir4/**
+readme.html
+spring/oophw/test_write.txt
+tests/dir/**
+tests/*.txt
+tests/*.pas
+
