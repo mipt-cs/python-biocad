@@ -7,4 +7,7 @@ spring/oophw/test_write.txt
 tests/dir/**
 tests/*.txt
 tests/*.pas
+**/.~*.ipynb
+**/*.jpg~
+**/*.png~
 
