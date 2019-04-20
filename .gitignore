@@ -10,4 +10,5 @@ tests/*.pas
 **/.~*.ipynb
 **/*.jpg~
 **/*.png~
+.idea/
 
